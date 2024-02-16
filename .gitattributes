@@ -1,0 +1,10 @@
+# Set default behavior to LF line endings
+* text=auto eol=lf
+
+# Denote files that are truly binary and should not be modified by Git
+# Add any other binary file extensions you need (e.g., png, jpg, gif, etc.)
+*.png binary
+*.jpg binary
+*.gif binary
+*.webp binary
+*.mp4 binary
