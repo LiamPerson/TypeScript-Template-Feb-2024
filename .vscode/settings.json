@@ -1,34 +1,27 @@
 {
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit"
-  },
-  "files.eol": "\n",
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  },
-  "typescript.enablePromptUseWorkspaceTsdk": true,
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "better-comments.tags": [
-    {
-      "tag": "@warning",
-      "color": "#FF8600",
-      "strikethrough": false,
-      "underline": false,
-      "backgroundColor": "transparent",
-      "bold": false,
-      "italic": false
-    }
-  ],
-  "cSpell.ignorePaths": [
-    "package.json",
-    "yarn.lock",
-    ".vscode/settings.json",
-    "gql/codegen",
-    "__snapshots__",
-    ".devcontainer"
-  ],
-  "cSpell.language": "en-US",
-  "cSpell.words": []
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"files.eol": "\n",
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"better-comments.tags": [
+		{
+			"tag": "@warning",
+			"color": "#FF8600",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		}
+	],
+	"cSpell.ignorePaths": ["package.json", "yarn.lock", ".vscode/settings.json", "gql/codegen", "__snapshots__", ".devcontainer"],
+	"cSpell.language": "en-US",
+	"cSpell.words": []
 }
