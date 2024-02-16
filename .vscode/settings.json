@@ -24,7 +24,15 @@
 			"italic": false
 		}
 	],
-	"cSpell.ignorePaths": ["package.json", "yarn.lock", ".vscode/settings.json", "gql/codegen", "__snapshots__", ".devcontainer"],
+	"cSpell.ignorePaths": [
+		"package.json",
+		"yarn.lock",
+		".vscode/settings.json",
+		".vscode/extensions.json",
+		"gql/codegen",
+		"__snapshots__",
+		".devcontainer"
+	],
 	"cSpell.language": "en-US",
 	"cSpell.words": []
 }
